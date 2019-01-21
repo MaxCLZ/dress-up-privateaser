@@ -1,0 +1,42 @@
+body{}
+head{background-color: white; min-height: 500px}
+img{ max-width: 100%;height: auto;}
+h1{text-align: center; font: bold; color: black;}
+#actors{
+	color: grey ;
+	font-size: 30px;
+	
+	text-align: center;
+	
+	text-decoration: underline cyan;
+	
+}
+input {
+
+	background-color: cyan;
+	font-size: 25px;
+ 	width: 50%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+  	box-sizing: border-box;
+ 	 border: 2px solid cyan;
+ 	border-radius: 4px;
+ 	color: grey ;
+}
+
+button{
+	background-color: cyan;
+	font-size: 25px;
+ 	width: 50%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+  	box-sizing: border-box;
+ 	border: 2px solid cyan;
+ 	border-radius: 4px;
+ 	color: grey;
+	
+}
+span{
+	color: grey ;
+	font-size: 25px;
+}
