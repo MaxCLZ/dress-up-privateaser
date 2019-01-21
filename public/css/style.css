@@ -2,6 +2,7 @@ body{}
 head{background-color: white; min-height: 500px}
 img{ max-width: 100%;height: auto;}
 h1{text-align: center; font: bold; color: black;}
+p{color: grey; font-size: 25px;}
 #actors{
 	color: grey ;
 	font-size: 30px;
